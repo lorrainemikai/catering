@@ -2,3 +2,7 @@
 .text{
   color: #b2c987;
 }
+.jumbotron{
+  background-image: url('z.jpg');
+  background-size: cover;
+}
